@@ -14,8 +14,8 @@ class Config(object):
     EVENT_LOGS = (-1002318902811)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= "mongodb+srv://Valentina:Valentina@valentina.pkv2i2s.mongodb.net/?retryWrites=true&w=majority&appName=valentina"
     # RECOMMENDED
-    BOT_USERNAME = getenv("BOT_USERNAME" , "wsnioboi")
-    DATABASE_URL = getenv("DATABASE_URL", "postgres://wsnioboi:Fkf1ef7qRJVP1CvP_gKYqhdxk6LXBbQE@balarama.db.elephantsql.com/wsnioboi")
+    BOT_USERNAME = "Elina_Roxbot"
+    DATABASE_URL = "postgres://wsnioboi:Fkf1ef7qRJVP1CvP_gKYqhdxk6LXBbQE@balarama.db.elephantsql.com/wsnioboi"
     CASH_API_KEY = (
         "XWHWZAMUD5BWUW6F"  # Get your API key from https://www.alphavantage.co/support/#api-key
     )
