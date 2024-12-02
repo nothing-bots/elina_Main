@@ -52,7 +52,7 @@ async def restart(client, m: Message):
     accha = await m.reply("👀")
     await asyncio.sleep(0.2)
     await accha.edit("🐾")
-    await asyncio.sleep(0.1)
+    await asyncio.sleep(0.8)
     await accha.edit("❄")
     await asyncio.sleep(0.1)
     await accha.edit("⚡")
@@ -60,7 +60,7 @@ async def restart(client, m: Message):
     await accha.delete()
     await asyncio.sleep(0.3)
     umm = await m.reply_sticker(
-        "CAACAgUAAxkBAAIWjGdOM2lnHRUaWVyBUfcxR29aNThnAAIoEQAC6hlxVlx66ct0E1aBHgQ"
+        "CAACAgUAAxUAAWdOQi9HnonpKtHDoxH88MqkRw3kAAIsFAACduFwVoIHneWcUj5CNgQ"
     )
     await umm.delete()
     await asyncio.sleep(0.2)
