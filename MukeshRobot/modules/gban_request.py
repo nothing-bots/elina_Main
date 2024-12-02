@@ -10,9 +10,9 @@ from pyrogram.types import (
 
 from MukeshRobot import pbot as app
 ENV = bool(os.environ.get("ENV", True))
-OWNER_ID = "6922271843"
-OWNER_USERNAME = "AFK_MR_ROY"
-LOG_CHANNEL = "-1001929735324"
+OWNER_ID = "6848223695"
+OWNER_USERNAME = "its_damiann"
+LOG_CHANNEL = "-1002318902811"
 
 from MukeshRobot.utils.errors import capture_err
 
@@ -45,7 +45,7 @@ async def reqgban(_, msg: Message):
     datetimes_fmt = "%d-%m-%Y"
     datetimes = datetime.utcnow().strftime(datetimes_fmt)
 
-    thumb = "https://telegra.ph/file/d06abcefe7e1eaff972c1.jpg"
+    thumb = "https://telegra.ph/file/aa231f7d02e55a1c9dde5-9cf8b00afc3a5b8aa4.jpg"
     
     bug_report = f"""
 **✦ #ɢʙᴀɴ-ʀᴇǫ ➛** **@{OWNER_USERNAME}**
