@@ -22,7 +22,7 @@ async def fetch_joke(event):
             joke = joke_data.get("hindi_Jokes", "❍ ɴᴏ ᴊᴏᴋᴇ ʀᴇᴄᴇɪᴠᴇᴅ ғʀᴏᴍ ᴛʜᴇ ᴀᴘɪ")
 
             # Add signature below the joke
-            signature = "\n\n๏ ᴊᴏᴋᴇs ɢᴇɴᴇʀᴀᴛᴇᴅ ᴠɪᴀ ➠ [๛ᴀ ᴠ ɪ s ʜ ᴀ ༗](https://t.me/AvishaxBot)"
+            signature = "\n\n๏ ᴊᴏᴋᴇs ɢᴇɴᴇʀᴀᴛᴇᴅ ᴠɪᴀ ➠ [『 ＥＬＩＮＡ 』](https://t.me/Elina_Roxbot)"
             reply_message = f"💌 {joke}{signature}"
         else:
             reply_message = "❍ ᴇʀʀᴏʀ ғᴇᴛᴄʜɪɴɢ ᴊᴏᴋᴇ ғʀᴏᴍ ᴛʜᴇ ᴀᴘɪ."
