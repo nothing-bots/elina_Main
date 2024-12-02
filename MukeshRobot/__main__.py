@@ -443,7 +443,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄", callback_data="Main_help"
                         ),
-                        InlineKeyboardButton(text="𝙲𝚁𝙸𝚃𝙸𝙲𝙰𝙻 ", url="https://t.me/nykaa_update"),
+                        InlineKeyboardButton(text="𝙲𝚁𝙸𝚃𝙸𝙲𝙰𝙻 ", url="https://t.me/ELINA_ROXBOT_NEWS"),
                     ],
                     [
                         InlineKeyboardButton(text="𝙷𝙾𝙼𝙴", callback_data="mukesh_back"),
@@ -462,7 +462,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="𝚄𝙿𝙳𝙰𝚃𝙴", url=f"https://t.me/criticalupdate"
+                            text="𝚄𝙿𝙳𝙰𝚃𝙴", url=f"https://t.me/ELINA_ROXBOT_NEWS"
                         ),
                     ],
                     [
