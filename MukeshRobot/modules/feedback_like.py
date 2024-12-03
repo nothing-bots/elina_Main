@@ -82,7 +82,7 @@ async def feedback(e):
 **๏ ᴜsᴇʀ ɪᴅ ➛** `{e.sender.id}`
 **๏ ғᴇᴇᴅʙᴀᴄᴋ ➛** `{e.text}`
 
-**๏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ** ➛ [๛ᴀ ᴠ ɪ s ʜ ᴀ ༗](https://t.me/avishaxbot)
+**๏ ᴘᴏᴡᴇʀᴇᴅ ʙʏ** ➛ [『 ＥＬＩＮＡ 』](https://t.me/Elina_Roxbot)
 """
     if user_id == 1926801217:
         await e.reply("**✦ sʀʏ ɪ ᴄᴀɴ'ᴛ ɪᴅᴇɴᴛɪғʏ ʏᴏᴜʀ ɪɴғᴏ.**",
