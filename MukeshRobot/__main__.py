@@ -1127,7 +1127,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="𝙰𝙳𝙳 𝙼𝙴 𝙱𝙰𝙱𝚈",
-                            url="https://t.me/Critical_pro_bot?startgroup=true"
+                            url="https://t.me/Elina_Roxbot?startgroup=true"
                             )
                        ]
                 ]
