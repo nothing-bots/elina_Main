@@ -7,7 +7,7 @@ class Config(object):
     API_ID = "24620300" # integer value, dont use ""
     API_HASH = "9a098f01aa56c836f2e34aee4b7ef963"
     TOKEN = "7628114935:AAEdA7ZOfC353Oq8WrCIrJxf47MLRgVKGls"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 6848223695 # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_ID = 7765692814 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     
     SUPPORT_CHAT = "Elina_Roxbot_support"  # Your own group for support, do not add the @
     START_IMG = "https://telegra.ph/file/aa231f7d02e55a1c9dde5-9cf8b00afc3a5b8aa4.jpg"
@@ -24,8 +24,8 @@ class Config(object):
 
     # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
-    DRAGONS = []  # User id of sudo users
-    DEV_USERS = [7186437295]  # User id of dev users
+    DRAGONS = [7186437295]  # User id of sudo users
+    DEV_USERS = [6848223695]  # User id of dev users
     DEMONS = []  # User id of support users
     TIGERS = []  # User id of tiger users
     WOLVES = []  # User id of whitelist users
