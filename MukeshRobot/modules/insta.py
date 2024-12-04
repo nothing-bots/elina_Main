@@ -2,7 +2,7 @@ import requests
 from MukeshRobot import telethn as tbot
 from MukeshRobot.events import register
 
-INSTAGRAM_API_URL = "https://instagramdownloader.apinepdev.workers.dev/"
+INSTAGRAM_API_URL = "https://karma-api2.vercel.app/instadl"
 
 @register(pattern="^/insta(?: |$)(.*)")
 async def search_and_send_instagram_video(event):
